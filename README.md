@@ -16,14 +16,7 @@ The project includes:
 - Firmware (AVR - ATMEGA 2560)
 - Prototyping and testing
 
-## 📁 Repository Structure
-
-End_Effector/
-├── CAD/ # 3D models and design files
-├── Firmware/ # Microcontroller code (AVR)
-├── Schematics/PCB # Circuit diagrams
-├── Images/ # Build photos or diagrams
-└── README.md # Project documentation
+<pre> ## 📁 Repository Structure ``` End_Effector/ ├── CAD/ # 3D models and design files ├── Firmware/ # Microcontroller code (AVR) ├── Schematics/PCB/ # Circuit diagrams ├── Images/ # Build photos or diagrams └── README.md # Project documentation ``` </pre>
 ## 🔧 Tools & Technologies
 
 - CAD Software:SolidWorks
