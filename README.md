@@ -31,7 +31,7 @@ End_Effector/
 - Actuators: Stepper motor with encoder feedback/ Single and double rod pneumatic pistons/ Vaccuum suction cups
 - Programming Language: C/C++
 
-- This project was a joint effort of
+##This project is a joint effort of
 - Muftee Mysaan
 - Kavishka Jayakody
 - Pravindu Gunathilaka
